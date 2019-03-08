@@ -1,0 +1,30 @@
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.exe.config
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.exe
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.pdb
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.xml
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\bin\Debug\TokenAuth.dll
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\bin\Debug\TokenAuth.xml
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbprojResolveAssemblyReference.cache
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.Form1.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.Resources.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.GenerateResource.Cache
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.CoreCompileInputs.cache
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.exe
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.xml
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.pdb
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\APIvideoTest\APIvideoTest\bin\Debug\MjpegProcessor.dll
+F:\Apps\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.exe.config
+F:\Apps\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.exe
+F:\Apps\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.pdb
+F:\Apps\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.xml
+F:\Apps\APIvideoTest\APIvideoTest\bin\Debug\MjpegProcessor.dll
+F:\Apps\APIvideoTest\APIvideoTest\bin\Debug\TokenAuth.xml
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbprojAssemblyReference.cache
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.Form1.resources
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.Resources.resources
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.GenerateResource.cache
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.CoreCompileInputs.cache
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.CopyComplete
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.exe
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.xml
+F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.pdb
