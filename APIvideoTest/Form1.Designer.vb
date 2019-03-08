@@ -33,6 +33,8 @@ Partial Class Form1
         Me.pbVideo = New System.Windows.Forms.PictureBox()
         Me.btnSubmit = New System.Windows.Forms.Button()
         Me.btnVideo = New System.Windows.Forms.Button()
+        Me.tbAddress = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
         CType(Me.pbVideo, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -87,7 +89,7 @@ Partial Class Form1
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(13, 98)
+        Me.Label4.Location = New System.Drawing.Point(13, 119)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(43, 13)
         Me.Label4.TabIndex = 6
@@ -95,7 +97,7 @@ Partial Class Form1
         '
         'tbCamera
         '
-        Me.tbCamera.Location = New System.Drawing.Point(71, 95)
+        Me.tbCamera.Location = New System.Drawing.Point(71, 116)
         Me.tbCamera.Name = "tbCamera"
         Me.tbCamera.Size = New System.Drawing.Size(100, 20)
         Me.tbCamera.TabIndex = 7
@@ -111,7 +113,7 @@ Partial Class Form1
         '
         'btnSubmit
         '
-        Me.btnSubmit.Location = New System.Drawing.Point(15, 122)
+        Me.btnSubmit.Location = New System.Drawing.Point(15, 143)
         Me.btnSubmit.Name = "btnSubmit"
         Me.btnSubmit.Size = New System.Drawing.Size(156, 23)
         Me.btnSubmit.TabIndex = 9
@@ -120,18 +122,36 @@ Partial Class Form1
         '
         'btnVideo
         '
-        Me.btnVideo.Location = New System.Drawing.Point(16, 152)
+        Me.btnVideo.Location = New System.Drawing.Point(16, 173)
         Me.btnVideo.Name = "btnVideo"
         Me.btnVideo.Size = New System.Drawing.Size(155, 23)
         Me.btnVideo.TabIndex = 10
         Me.btnVideo.Text = "Video"
         Me.btnVideo.UseVisualStyleBackColor = True
         '
+        'tbAddress
+        '
+        Me.tbAddress.Location = New System.Drawing.Point(72, 90)
+        Me.tbAddress.Name = "tbAddress"
+        Me.tbAddress.Size = New System.Drawing.Size(100, 20)
+        Me.tbAddress.TabIndex = 12
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(13, 93)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(45, 13)
+        Me.Label5.TabIndex = 11
+        Me.Label5.Text = "Address"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1245, 634)
+        Me.Controls.Add(Me.tbAddress)
+        Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.btnVideo)
         Me.Controls.Add(Me.btnSubmit)
         Me.Controls.Add(Me.pbVideo)
@@ -162,4 +182,6 @@ Partial Class Form1
     Friend WithEvents pbVideo As PictureBox
     Friend WithEvents btnSubmit As Button
     Friend WithEvents btnVideo As Button
+    Friend WithEvents tbAddress As TextBox
+    Friend WithEvents Label5 As Label
 End Class

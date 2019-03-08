@@ -28,3 +28,17 @@ F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.CopyComplete
 F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.exe
 F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.xml
 F:\Apps\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.pdb
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.exe.config
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.exe
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.pdb
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\bin\Debug\APIvideoTest.xml
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\bin\Debug\TokenAuth.xml
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbprojAssemblyReference.cache
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.Form1.resources
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.Resources.resources
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.GenerateResource.cache
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.CoreCompileInputs.cache
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.vbproj.CopyComplete
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.exe
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.xml
+D:\GitHub\Repos\APIvideoTest\APIvideoTest\obj\Debug\APIvideoTest.pdb
