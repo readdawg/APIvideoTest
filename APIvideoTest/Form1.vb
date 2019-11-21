@@ -38,7 +38,7 @@ Public Class Form1
     ' Connect to VI API and ingest MJPEG stream
     Private Sub btnStart_Click(ByVal sender As Object, ByVal e As EventArgs) Handles btnVideo.Click
         Dim mjpeg As New MjpegDecoder
-        Dim ip As String = "10.10.3.33"
+        Dim ip As String = "192.168.1.106"
         Dim camera As String = tbCamera.Text
         Dim url As String = "http://" + ip + ":9000/api/v1/video/" + camera + "/mjpeg?token=" + encryptedToken
 
