@@ -13,7 +13,8 @@ Public Class Form1
         tbUser.Text = "administrator"
         tbPassword.Text = "12345"
         tbTimeout.Text = "36000"
-        tbCamera.Text = "333228228"
+        tbCamera.Text = "1456470129"
+        tbAddress.Text = "192.168.1.100"
 
     End Sub
 
@@ -38,7 +39,11 @@ Public Class Form1
     ' Connect to VI API and ingest MJPEG stream
     Private Sub btnStart_Click(ByVal sender As Object, ByVal e As EventArgs) Handles btnVideo.Click
         Dim mjpeg As New MjpegDecoder
+
         Dim ip As String = "192.168.1.106"
+
+        Dim ip As String = tbAddress.Text
+
         Dim camera As String = tbCamera.Text
         Dim url As String = "http://" + ip + ":9000/api/v1/video/" + camera + "/mjpeg?token=" + encryptedToken
 
